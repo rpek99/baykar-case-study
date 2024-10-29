@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "user_name": "Hellen Jummy",
+        "user_title": "Team Lead",
+        "desc": "Non risus viverra enim, quis. Eget vitae arcu vivamus sit tellus, viverra turpis lorem. Varius a turpis urna id porttitor.",
+        "image": "/assets/comp_1.png",
+        "icon": "/assets/icons/user_1.png",
+        "comp_name":"Zoomerr"
+    },
+    {
+        "id": 2,
+        "user_name": "Hellena John",
+        "user_title": "Co-founder",
+        "desc": "Aliquet ridiculus mi porta habitant vulputate rhoncus, mattis amet enim. Sit purus venenatis velit semper lectus sed ornare quam nulla.",
+        "image": "/assets/comp_2.png",
+        "icon": "/assets/icons/user_2.png",
+        "comp_name":"SHELLS"
+    },
+    {
+        "id": 3,
+        "user_name": "David Oshodi",
+        "user_title": "Manager",
+        "desc": "A eget sed posuere dui risus habitasse mauris. Venenatis aliquet id ultrices a lacus. Pretium vehicula pretium posuere justo sed.",
+        "image": "/assets/comp_3.png",
+        "icon": "/assets/icons/user_3.png",
+        "comp_name":"ArtVenue"
+    },
+    {
+        "id": 4,
+        "user_name": "Hellen Jummy",
+        "user_title": "Team Lead",
+        "desc": "Non risus viverra enim, quis. Eget vitae arcu vivamus sit tellus, viverra turpis lorem. Varius a turpis urna id porttitor.",
+        "image": "/assets/comp_1.png",
+        "icon": "/assets/icons/user_4.png",
+        "comp_name":"Zoomerr"
+    },
+    {
+        "id": 5,
+        "user_name": "Hellen Jummy",
+        "user_title": "Team Lead",
+        "desc": "Non risus viverra enim, quis. Eget vitae arcu vivamus sit tellus, viverra turpis lorem. Varius a turpis urna id porttitor.",
+        "image": "/assets/comp_1.png",
+        "icon": "/assets/icons/user_4.png",
+        "comp_name":"Zoomerr"
+    }
+]

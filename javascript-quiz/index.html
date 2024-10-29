@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz App</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+  <div id="quiz-container" class="w-full max-w-lg p-6 bg-white shadow-md rounded-lg">
+    <div id="question" class="text-xl font-bold mb-4"></div>
+    <div id="options" class="space-y-2"></div>
+    <div id="timer" class="text-right text-sm text-gray-600 mt-4">Time Left: <span id="time-left">30</span> seconds</div>
+  </div>
+
+  <div id="results" class="hidden w-full max-w-lg p-6 bg-white shadow-md rounded-lg mt-4">
+    <h2 class="text-xl font-bold mb-4">Quiz Results</h2>
+    <table class="w-full text-left border-collapse">
+      <thead>
+        <tr>
+          <th class="border-b py-2">Question</th>
+          <th class="border-b py-2">Your Answer</th>
+        </tr>
+      </thead>
+      <tbody id="results-table"></tbody>
+    </table>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Nibh viverra",
+        "desc": "Sit bibendum donec dolor fames neque vulputate non sit aliquam. Consequat turpis natoque leo, massa.",
+        "icon": "/assets/icons/icon_1.png",
+        "rectangle": "/assets/icons/rectangle_1.png"
+    },
+    {
+        "id": 2,
+        "title": "Cursus amet",
+        "desc": "Sit bibendum donec dolor fames neque vulputate non sit aliquam. Consequat turpis natoque leo, massa.",
+        "icon": "/assets/icons/icon_2.png",
+        "rectangle": "/assets/icons/rectangle_2.png"
+    },
+    {
+        "id": 3,
+        "title": "Ipsum fermentum",
+        "desc": "Sit bibendum donec dolor fames neque vulputate non sit aliquam. Consequat turpis natoque leo, massa. ",
+        "icon": "/assets/icons/icon_3.png",
+        "rectangle": "/assets/icons/rectangle_3.png"
+    }
+]
